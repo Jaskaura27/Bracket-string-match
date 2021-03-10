@@ -9,3 +9,13 @@ Eg.
 ([][)] is not a match.
 
 ![](image1.png)
+
+
+## Running Programs
+
+OS X & Linux terminal:
+
+```sh
+g++ *.cpp *.h
+./a.out
+```
